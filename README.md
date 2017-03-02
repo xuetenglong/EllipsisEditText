@@ -14,7 +14,7 @@
 ###关于我
 
 
-关注我的`[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]`|[![](https://github.com/xuetenglong/README/blob/master/img/csdn.png "我的知乎，欢迎关注")][我的csdn]|博客|[www.xuetenglong.xyz]
+关注我的(https://github.com/xuetenglong/README/blob/master/img/csdn.png)|博客|[www.xuetenglong.xyz]
 
 
 
