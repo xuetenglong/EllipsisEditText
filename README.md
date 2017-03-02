@@ -24,5 +24,5 @@
 *******************
 [csdn]:http://www.xuetenglong.xyz
 
-[csdn-logo]:https://github.com/xuetenglong/README/blob/master/img/csdn.png "csdnlogo"
+
 [http://www.xuetenglong.xyz]:https://www.xuetenglong.xyz
