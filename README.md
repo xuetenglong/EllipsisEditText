@@ -24,4 +24,4 @@
 *******************
 
 
-[http://www.xuetenglong.xyz]:https://www.xuetenglong.xyz
+[http://www.xuetenglong.xyz]:http://www.xuetenglong.xyz
